@@ -267,22 +267,7 @@ span > img > button {
   border: 1px solid #222426;
   box-shadow: -2px 0px #00ff93;
 }
-.elements-5 {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.elements-6 {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.elements-7 {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
-}
-.elements-8 {
+.elements-container {
   display: flex;
   justify-content: space-between;
   align-items: center;
